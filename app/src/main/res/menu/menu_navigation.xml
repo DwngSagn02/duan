@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+
+<group android:checkableBehavior="single">
+
+    <item android:id="@+id/nav_home"
+        android:title="@string/nav_trangchu"
+        android:icon="@drawable/home"/>
+    <item android:id="@+id/nav_thanhvien"
+        android:title="@string/nav_thanhvien"
+        android:icon="@drawable/member"/>
+    <item android:id="@+id/nav_loaisp"
+        android:title="@string/nav_loaisp"
+        android:icon="@drawable/kho"/>
+    <item android:id="@+id/nav_sanpham"
+        android:title="@string/nav_sp"
+        android:icon="@drawable/sanpham"/>
+    <item android:id="@+id/nav_phieu"
+        android:title="@string/nav_phieu"
+        android:icon="@drawable/phieu"/>
+</group>
+
+    <item android:title="Khác">
+        <menu>
+            <item android:id="@+id/nav_baomat"
+                android:title="@string/nav_baomat"
+                android:icon="@drawable/baomat"/>
+            <item android:id="@+id/nav_caidat"
+                android:title="@string/nav_caidat"
+                android:icon="@drawable/setting"/>
+            <item android:id="@+id/nav_dangxuat"
+                android:title="Đăng xuất"
+                android:icon="@drawable/exit"/>
+        </menu>
+    </item>
+</menu>

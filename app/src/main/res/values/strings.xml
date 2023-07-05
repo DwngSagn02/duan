@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">duan1</string>
+    <string name="nav_trangchu">Trang chủ</string>
+    <string name="nav_thanhvien">Thành viên</string>
+    <string name="nav_loaisp">Loại sản phẩm</string>
+    <string name="nav_sp">Sản phẩm</string>
+    <string name="nav_phieu">Phiếu</string>
+    <string name="nav_baomat">Bảo mật</string>
+    <string name="nav_caidat">Cài đặt</string>
+    <string name="navigation_drawer_open">Open navigation drawer</string>
+    <string name="navigation_drawer_close">Close navigation drawe</string>
+</resources>
